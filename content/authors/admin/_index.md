@@ -36,6 +36,11 @@ social:
     link: https://github.com/BradSegal
     icon_pack: fab
     icon: github
+  - display:
+      header: false
+    icon_pack: ai
+    icon: orcid
+    link: https://orcid.org/my-orcid?orcid=0000-0001-5313-4596
 superuser: true
 status:
   icon: ☕️
