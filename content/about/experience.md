@@ -22,28 +22,62 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Medical Officer
+    company: South African National Department of Health
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+#    company_logo: org-sahealth
+    location: Johannesburg, South Africa
+    date_start: '2022-01-01'
+    date_end: '2023-12-31'
     description: |2-
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+        * Post-graduate medical training at Chris Hani Baragwanath Academic Hospital
+        * Rotating through multiple medical specialties
+        * Quality improvement projects including digital discharge repository and low-cost 3D printed medical tools
+
+  - title: Head Clinical Data Scientist
+    company: Phithos Technologies / Phylaxis.ai
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+#    company_logo: org-phithos
+    location: Johannesburg, South Africa
+    date_start: '2021-06-01'
+    date_end: 'Current'
+    description: |2-
+        Responsibilities include:
+
+        * Supervising healthcare-focused risk analysis and targeted intervention technology
+        * Packaging machine learning models into production-ready APIs
+        * Engaging in grant and proposal writing and acting as a healthcare expert
+
+  - title: Head of Technology
+    company: Wits Healthcare Innovation
+    company_url: ''
+#    company_logo: org-wits
+    location: Johannesburg, South Africa
+    date_start: '2021-01-01'
+    date_end: 'Current'
+    description: |2-
+        Responsibilities include:
+
+        * Collaborating to solve problems in low-resource public healthcare
+        * Managing projects ranging from clinic booking to chronic disease monitoring
+        * Serving both technical and clinical roles to align details between teams
+
+  - title: Health Data Scientist
+    company: Wits Bioinformatics & Translational Science
+    company_url: ''
+#    company_logo: org-witsbio
+    location: Johannesburg, South Africa
+    date_start: '2019-01-01'
+    date_end: '2022-06-01'
+    description: |2-
+        Responsibilities include:
+
+        * Providing insight into medical data sets collected during routine clinical practice
+        * Academic support for data extraction and analysis
+        * Lecturing medical students on machine learning applications for healthcare
+
 
 design:
   columns: '1'
