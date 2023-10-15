@@ -26,6 +26,11 @@ social:
     link: uploads/Bradley Segal CV.pdf
     icon_pack: ai
     icon: cv
+  - display:
+      header: false
+    icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/bradmaxsegal
 superuser: true
 status:
   icon: ☕️
