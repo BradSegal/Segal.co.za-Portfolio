@@ -45,14 +45,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/BradMaxSegal
-organizations:
-  - name: Chris Hani Baragwanath Hospital
-  - name: University of the Witwatersrand
-    url: ""
-  - name: Wits Healthcare Innovation
-  - name: Phylaxis.ai
-  - name: Sisonke Biotik
-    url: ""
 education:
   courses:
     - course: Master of Science in Engineering
