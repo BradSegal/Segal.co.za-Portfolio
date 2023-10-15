@@ -41,6 +41,11 @@ social:
     icon_pack: ai
     icon: orcid
     link: https://orcid.org/my-orcid?orcid=0000-0001-5313-4596
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Bradley-Segal
+    icon_pack: ai
+    icon: researchgate
 superuser: true
 status:
   icon: ☕️
