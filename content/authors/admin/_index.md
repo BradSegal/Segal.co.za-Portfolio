@@ -62,8 +62,6 @@ education:
       institution: University of the Witwatersrand
       year: 2021
 superuser: true
-status:
-  icon: 🩺
 ---
 I﻿'m Brad, a practicing medical doctor with a passion for technology and innovation. I simultaneously pursued medicine along with a master's degree in biomedical engineering focusing on the applications of machine learning for health. I﻿ have worked extensively at the intersection of healthcare and data science to develop solutions to the challenges found in low-resource health systems, often serving as a bridge between technical and clinical teams. I﻿'m fascinated by the future of medical practice and how artificial intelligence will shape and enhance it. 
 
