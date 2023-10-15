@@ -2,8 +2,7 @@
 title: Dr Bradley Max Segal
 role: Medical Doctor | Health Data Scientist
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Clinical Medicine
   - Artificial Intelligence
