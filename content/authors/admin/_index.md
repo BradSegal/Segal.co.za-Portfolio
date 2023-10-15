@@ -13,14 +13,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: about/#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/BradMaxSegal
-  - display:
-      header: false
-    icon_pack: ai
-    icon: google-scholar
-    link: https://scholar.google.com/citations?hl=en&user=tSjS1E4AAAAJ
   - display:
       header: false
     link: uploads/Bradley Segal CV.pdf
@@ -28,14 +20,9 @@ social:
     icon: cv
   - display:
       header: false
-    icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/bradmaxsegal
-  - display:
-      header: false
-    link: https://github.com/BradSegal
-    icon_pack: fab
-    icon: github
+    icon_pack: ai
+    icon: google-scholar
+    link: https://scholar.google.com/citations?hl=en&user=tSjS1E4AAAAJ
   - display:
       header: false
     icon_pack: ai
@@ -46,6 +33,19 @@ social:
     link: https://www.researchgate.net/profile/Bradley-Segal
     icon_pack: ai
     icon: researchgate
+  - display:
+      header: false
+    icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/bradmaxsegal
+  - display:
+      header: false
+    link: https://github.com/BradSegal
+    icon_pack: fab
+    icon: github
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/BradMaxSegal
 superuser: true
 status:
   icon: ☕️
