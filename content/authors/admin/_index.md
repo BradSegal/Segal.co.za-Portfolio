@@ -49,13 +49,11 @@ social:
 organizations:
   - name: Chris Hani Baragwanath Hospital
   - name: University of the Witwatersrand
-    url: https://www.wits.ac.za/
+    url: ""
   - name: Wits Healthcare Innovation
-  - name: Wits Bioinformatics and Translational Sciences
-    url: https://witsbits.co.za/home.html
   - name: Phylaxis.ai
   - name: Sisonke Biotik
-    url: https://www.sisonkebiotik.africa/
+    url: ""
 education:
   courses:
     - course: Master of Science in Engineering
