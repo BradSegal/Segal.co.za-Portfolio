@@ -25,9 +25,6 @@ superuser: true
 status:
   icon: ☕️
 ---
+A practicing medical doctor with a passion for technology and innovation. Simultaneously pursued medicine along with a master's degree in biomedical engineering focusing on the applications of machine learning for health. He has worked extensively at the intersection of healthcare and data science to develop solutions to the challenges found in low-resource health systems, often serving as a bridge between technical and clinical teams. He is fascinated by the future of medical practice and how artificial intelligence will shape and enhance it.
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Bradley Segal CV.pdf" "newtab" >}}Download{{< /staticref >}} my resumé.
