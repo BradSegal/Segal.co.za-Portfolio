@@ -25,7 +25,6 @@ experience:
   - title: PhD in Biomedical Engineering (In Progress)
     company: University of The Witwatersrand
     company_url: ''
-#    company_logo: org-wits
     location: Johannesburg, South Africa
     date_start: '2022-01-01'
     date_end: '2024-12-31'
@@ -36,7 +35,6 @@ experience:
   - title: MSc in Biomedical Engineering
     company: University of The Witwatersrand
     company_url: ''
-#    company_logo: org-wits
     location: Johannesburg, South Africa
     date_start: '2020-06-01'
     date_end: '2021-12-31'
@@ -49,7 +47,6 @@ experience:
   - title: Bachelor in Medicine and Surgery (MBBCh)
     company: University of The Witwatersrand
     company_url: ''
-#    company_logo: org-wits
     location: Johannesburg, South Africa
     date_start: '2016-01-01'
     date_end: '2021-12-31'
@@ -64,7 +61,6 @@ experience:
   - title: National Senior Certificate
     company: King David Victory Park High School
     company_url: ''
-#    company_logo: org-kingdavid
     location: Johannesburg, South Africa
     date_start: '2011-01-01'
     date_end: '2015-12-31'

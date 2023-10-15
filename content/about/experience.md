@@ -25,7 +25,6 @@ experience:
   - title: Medical Officer
     company: South African National Department of Health
     company_url: ''
-#    company_logo: org-sahealth
     location: Johannesburg, South Africa
     date_start: '2022-01-01'
     date_end: '2023-12-31'
@@ -39,7 +38,6 @@ experience:
   - title: Head Clinical Data Scientist
     company: Phithos Technologies / Phylaxis.ai
     company_url: ''
-#    company_logo: org-phithos
     location: Johannesburg, South Africa
     date_start: '2021-06-01'
     date_end: 'Current'
@@ -53,7 +51,6 @@ experience:
   - title: Head of Technology
     company: Wits Healthcare Innovation
     company_url: ''
-#    company_logo: org-wits
     location: Johannesburg, South Africa
     date_start: '2021-01-01'
     date_end: 'Current'
@@ -67,7 +64,6 @@ experience:
   - title: Health Data Scientist
     company: Wits Bioinformatics & Translational Science
     company_url: ''
-#    company_logo: org-witsbio
     location: Johannesburg, South Africa
     date_start: '2019-01-01'
     date_end: '2022-06-01'
