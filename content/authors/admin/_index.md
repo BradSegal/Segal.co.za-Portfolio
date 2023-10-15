@@ -21,6 +21,11 @@ social:
     icon_pack: ai
     icon: google-scholar
     link: https://scholar.google.com/citations?hl=en&user=tSjS1E4AAAAJ
+  - display:
+      header: false
+    link: uploads/Bradley Segal CV.pdf
+    icon_pack: ai
+    icon: cv
 superuser: true
 status:
   icon: ☕️
