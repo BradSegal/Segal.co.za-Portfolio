@@ -46,6 +46,24 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/BradMaxSegal
+organizations:
+  - name: Chris Hani Baragwanath Hospital
+  - name: University of the Witwatersrand
+    url: https://www.wits.ac.za/
+  - name: Wits Healthcare Innovation
+  - name: Wits Bioinformatics and Translational Sciences
+    url: https://witsbits.co.za/home.html
+  - name: Phylaxis.ai
+  - name: Sisonke Biotik
+    url: https://www.sisonkebiotik.africa/
+education:
+  courses:
+    - course: Master of Science in Engineering
+      institution: University of the Witwatersrand
+      year: 2021
+    - course: Bachelor of Medicine & Bachelor of Surgery (MBBCh)
+      institution: University of the Witwatersrand
+      year: 2021
 superuser: true
 status:
   icon: ☕️
