@@ -40,7 +40,7 @@ experience:
     company_url: ''
     location: Johannesburg, South Africa
     date_start: '2021-06-01'
-    date_end: 'Current'
+    #date_end: 'Current'
     description: |2-
         Responsibilities include:
 
@@ -53,7 +53,7 @@ experience:
     company_url: ''
     location: Johannesburg, South Africa
     date_start: '2021-01-01'
-    date_end: 'Current'
+    #date_end: 'Current'
     description: |2-
         Responsibilities include:
 
