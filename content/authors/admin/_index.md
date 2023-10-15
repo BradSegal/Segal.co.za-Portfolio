@@ -31,6 +31,11 @@ social:
     icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/bradmaxsegal
+  - display:
+      header: false
+    link: https://github.com/BradSegal
+    icon_pack: fab
+    icon: github
 superuser: true
 status:
   icon: ☕️
