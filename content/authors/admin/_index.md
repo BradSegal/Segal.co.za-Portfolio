@@ -18,7 +18,7 @@ social:
     link: https://twitter.com/BradMaxSegal
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: ai
     icon: google-scholar
     link: https://scholar.google.com/citations?hl=en&user=tSjS1E4AAAAJ
   - display:
